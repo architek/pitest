@@ -1,0 +1,20 @@
+************ Host configuration ***********
+              total        used        free      shared  buff/cache   available
+Mem:          5,7Gi       2,7Gi       2,4Gi       242Mi       562Mi       2,5Gi
+Swap:         5,8Gi       213Mi       5,6Gi
+
+Linux asus-sid 4.18.0-1-amd64 #1 SMP Debian 4.18.6-1 (2018-09-06) x86_64 GNU/Linux
+
+************ Read test ************
+1024 times 8192 Bytes                                    , 63,3 MB/s, 60,7 MB/s, 62,2 MB/s, 64,3 MB/s, 60,4 MB/s, 62,2 MB/s, 62,2 MB/s, 63,6 MB/s, 62,4 MB/s, 62,8 MB/s
+1024 times 32768 Bytes                                   , 64,6 MB/s, 63,8 MB/s, 64,3 MB/s, 64,3 MB/s, 64,2 MB/s, 64,2 MB/s, 65,4 MB/s, 64,5 MB/s, 64,2 MB/s, 64,4 MB/s
+1024 times 65536 Bytes                                   , 64,5 MB/s, 64,6 MB/s, 63,9 MB/s, 64,9 MB/s, 64,8 MB/s, 65,0 MB/s, 64,8 MB/s, 63,9 MB/s, 65,1 MB/s, 64,4 MB/s
+1024 times 500K Bytes                                    , 79,8 MB/s, 79,8 MB/s, 80,0 MB/s, 79,7 MB/s, 79,9 MB/s, 79,8 MB/s, 80,6 MB/s, 80,0 MB/s, 79,6 MB/s, 79,5 MB/s
+1024 times 1000K Bytes                                   , 80,3 MB/s, 80,3 MB/s, 80,2 MB/s, 80,3 MB/s, 80,3 MB/s, 80,4 MB/s, 80,3 MB/s, 80,3 MB/s, 80,3 MB/s, 80,4 MB/s
+************ Write test ************
+1024 times 8192 Bytes                                    , 74,7 MB/s, 881 MB/s, 792 MB/s, 1,2 GB/s, 765 MB/s, 833 MB/s, 700 MB/s, 1,0 GB/s, 878 MB/s, 688 MB/s
+1024 times 32768 Bytes                                   , 25,0 MB/s, 54,6 MB/s, 54,2 MB/s, 25,0 MB/s, 54,8 MB/s, 42,8 MB/s, 49,9 MB/s, 54,5 MB/s, 50,5 MB/s, 25,9 MB/s
+1024 times 65536 Bytes                                   , 28,3 MB/s, 22,5 MB/s, 30,1 MB/s, 25,5 MB/s, 30,9 MB/s, 30,4 MB/s, 30,1 MB/s, 31,2 MB/s, 30,2 MB/s, 24,5 MB/s
+1024 times 500K Bytes                                    , 20,7 MB/s, 21,2 MB/s, 20,1 MB/s, 20,9 MB/s, 20,9 MB/s, 20,6 MB/s, 20,6 MB/s, 21,0 MB/s, 19,9 MB/s, 20,7 MB/s
+1024 times 1000K Bytes                                   , 20,6 MB/s, 20,7 MB/s, 20,8 MB/s, 20,7 MB/s, 20,6 MB/s, 20,5 MB/s, 11,8 MB/s, 12,1 MB/s, 12,7 MB/s, 12,7 MB/s
+
